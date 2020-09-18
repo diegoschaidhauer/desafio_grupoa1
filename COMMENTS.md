@@ -9,7 +9,7 @@
 - Vue CLI
 
 - Ola, infelizmente meus conhecimentos técnicos são limitados ainda na programação, neste projeto,
-  pesquisei e encontrei um modelo ao qual eu me inspirei, nunca avia codado com Vue.js, apesar de o
+  pesquisei e encontrei um modelo ao qual eu me inspirei, nunca havia codado com Vue.js, apesar de o
   conceito de componentes ser bem parecido com React, o qual eu ainda estou aprendendo.
 
 Não consegui finalizar o cod de maneira satisfatória, pois acabei nao criando os inputs dos dados dos alunos, nem o delete.
